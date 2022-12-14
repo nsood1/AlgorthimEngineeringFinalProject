@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicolesood/Desktop/graphcolouring/Graph.h
+vector
+-
+stack
+-
+
+/Users/nicolesood/Desktop/graphcolouring/main.cpp
+iostream
+-
+Graph.h
+/Users/nicolesood/Desktop/graphcolouring/Graph.h
+
